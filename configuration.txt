@@ -1,0 +1,7 @@
+FileOwner  8000
+Peer.No  localPort  ListeningPort  downloadNeighborListeningPort
+1  8001  7001  7005
+2  8002  7002  7001
+3  8003  7003  7002
+4  8004  7004  7003
+5  8005  7005  7004   
